@@ -1,4 +1,4 @@
-# Confoguration for Autohause website to use Solt search provider 
+# Confoguration for Autohaus website to use Solt search provider 
 
 
 ## Installation of Autohaus
