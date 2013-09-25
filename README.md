@@ -1,4 +1,4 @@
-# Confoguration for Autohaus website to use Solt search provider 
+# Configuration for Autohaus website to use Solt search provider 
 
 
 ## Installation of Autohaus
